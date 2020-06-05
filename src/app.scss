@@ -1,0 +1,11 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+$colore_titoli: red;
+
+h2 {
+    color: $colore_titoli;
+}
+
+h3 {
+    color: $colore_titoli;
+}
